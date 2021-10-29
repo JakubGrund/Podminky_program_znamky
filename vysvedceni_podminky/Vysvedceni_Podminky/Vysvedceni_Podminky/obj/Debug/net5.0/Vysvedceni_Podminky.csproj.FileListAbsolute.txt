@@ -1,0 +1,15 @@
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/bin/Debug/net5.0/Vysvedceni_Podminky.deps.json
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/bin/Debug/net5.0/Vysvedceni_Podminky.runtimeconfig.json
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/bin/Debug/net5.0/Vysvedceni_Podminky.runtimeconfig.dev.json
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/bin/Debug/net5.0/Vysvedceni_Podminky.dll
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/bin/Debug/net5.0/ref/Vysvedceni_Podminky.dll
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/bin/Debug/net5.0/Vysvedceni_Podminky.pdb
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/obj/Debug/net5.0/Vysvedceni_Podminky.csproj.AssemblyReference.cache
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/obj/Debug/net5.0/Vysvedceni_Podminky.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/obj/Debug/net5.0/Vysvedceni_Podminky.AssemblyInfoInputs.cache
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/obj/Debug/net5.0/Vysvedceni_Podminky.AssemblyInfo.cs
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/obj/Debug/net5.0/Vysvedceni_Podminky.csproj.CoreCompileInputs.cache
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/obj/Debug/net5.0/Vysvedceni_Podminky.dll
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/obj/Debug/net5.0/ref/Vysvedceni_Podminky.dll
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/obj/Debug/net5.0/Vysvedceni_Podminky.pdb
+/Users/jakubgrund/Desktop/vysvedceni_podminky/Vysvedceni_Podminky/Vysvedceni_Podminky/obj/Debug/net5.0/Vysvedceni_Podminky.genruntimeconfig.cache
